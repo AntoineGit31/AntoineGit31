@@ -18,8 +18,3 @@ I am a Data & Artificial Intelligence engineering student at ECE Paris, passiona
 ---
 [![](https://visitcount.itsvg.in/api?id=AntoineGit31&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-### 📌 Featured Repositories
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AntoineGit31&repo=NOM_DU_REPO&theme=dark)
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AntoineGit31&repo=NOM_DU_REPO_2&theme=dark)
