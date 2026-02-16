@@ -23,7 +23,4 @@ I am a Data & Artificial Intelligence engineering student at ECE Paris, passiona
 [![](https://visitcount.itsvg.in/api?id=AntoineGit31&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## 📊 Activity Overview
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AntoineGit31&theme=github_dark)
 
