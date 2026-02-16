@@ -18,3 +18,11 @@ I am a Data & Artificial Intelligence engineering student at ECE Paris, passiona
 ---
 [![](https://visitcount.itsvg.in/api?id=AntoineGit31&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+# 📊 GitHub Stats:
+
+![](https://streak-stats.demolab.com?user=AntoineGit31&theme=dark&hide_border=false)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AntoineGit31&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntoineGit31&theme=github_dark)
